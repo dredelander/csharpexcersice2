@@ -1,0 +1,15 @@
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/bin/Debug/net7.0/exercise2
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/bin/Debug/net7.0/exercise2.deps.json
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/bin/Debug/net7.0/exercise2.runtimeconfig.json
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/bin/Debug/net7.0/exercise2.dll
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/bin/Debug/net7.0/exercise2.pdb
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.csproj.AssemblyReference.cache
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.AssemblyInfoInputs.cache
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.AssemblyInfo.cs
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.csproj.CoreCompileInputs.cache
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.dll
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/refint/exercise2.dll
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.pdb
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/exercise2.genruntimeconfig.cache
+/Users/andresvivanco/Projects/csharp/exercise2/exercise2/obj/Debug/net7.0/ref/exercise2.dll
