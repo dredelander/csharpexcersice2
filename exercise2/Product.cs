@@ -7,4 +7,10 @@ public class Product
     public int Quantity { get; set; }
     public string Description { get; set; }
 
+    public Product()
+    {
+        Name = string.Empty;
+        Description = string.Empty;
+    }
+
 }
